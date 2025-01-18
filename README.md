@@ -4,7 +4,7 @@ Email: s342lee@uwaterloo.ca • [LinkedIn](https://www.linkedin.com/in/seojun-le
 ## Skills
 **Programming Languages**: C++(v11), Python3, MATLAB  
 **Software & Tools**: PyCharm, VSCode, GIT/GitHub, Markdown, Office Suite, SolidWorks, AutoCAD  
-**Technical Skills**: C++ Code Debuggin, Soldering, Machining  
+**Technical Skills**: C++ Code Debugging, Soldering, Machining  
 **Languages**: English (Fluent), Korean (Fluent)
 
 ## Projects & Extracurricular Activities
