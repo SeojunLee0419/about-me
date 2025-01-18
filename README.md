@@ -8,3 +8,6 @@ Email: s342lee@uwaterloo.ca • [LinkedIn](https://www.linkedin.com/in/seojun-le
 - **Languages**: English (Fluent), Korean (Fluent)
 
 ## Projects & Extracurricular Activities
+
+## Professional Experience
+
